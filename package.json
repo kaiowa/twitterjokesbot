@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kaiowa/twitterjokes.git"
+    "url": "git+https://github.com/kaiowa/twitterjokesbot.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kaiowa/twitterjokes/issues"
+    "url": "https://github.com/kaiowa/twitterjokesbot/issues"
   },
-  "homepage": "https://github.com/kaiowa/twitterjokes#readme",
+  "homepage": "https://github.com/kaiowa/twitterjokesbot#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
     "mysql": "^2.18.1",
