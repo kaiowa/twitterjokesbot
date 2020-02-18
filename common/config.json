@@ -1,0 +1,6 @@
+{
+  "CRON":"'/2 * * * *",
+  "DBNAME":"twitterbot",
+  "UserName":"@Chistesparatod7",
+  "countSearch":30
+}
