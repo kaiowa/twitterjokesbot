@@ -2,6 +2,7 @@
 Bot to post entries from mysql to a twitter account
 
 -cron post every xx
+
 -cron scrap channels every xx
 
 Create a environment file like this 
